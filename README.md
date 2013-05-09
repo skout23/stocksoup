@@ -1,0 +1,4 @@
+stocksoup
+=========
+
+soupstock libs
